@@ -1,14 +1,13 @@
-import java.util.*;
 public class VehicleIcAc 
 {
-    class Inner
+    class VehicleDetails
     {
         void display()
         {
-            System.out.println("Model: Toyota Camry\nColor: Silver\nYear: 2022\nEngine: 2.5L 4-cylinder\nTransmission);");
+            System.out.println("\nModel: Toyota Camry\nColor: Silver\nYear: 2022\nEngine: 2.5L 4-cylinder\nTransmission\n");
         }
     }
-    
+}   
     interface Action
    {
     void start();
@@ -17,11 +16,13 @@ public class VehicleIcAc
     void brake();
    }
 
+class VehicleIcAcMain
+{  
    public static void main(String args[])
    {
     VehicleIcAc obj=new VehicleIcAc();
-    Inner innerObj=obj.new Inner();
-    innerObj.display();
+    VehicleIcAc.VehicleDetails vehicleDetl=obj.new VehicleDetails();
+    vehicleDetl.display();
 
     Action action=new Action()
     {
