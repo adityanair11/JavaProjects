@@ -34,8 +34,8 @@ public class Book
     public static void main(String args[])
     {
         Book obj1= new Book();
-        Book obj2= new Book("Odssey", "Mark Blanc");
-        Book obj3= new Book("Odssey", "Mark Blanc", 60.5);
+        Book obj2= new Book("Odyssey", "Mark Blanc");
+        Book obj3= new Book("Odyssey", "Mark Blanc", 60.5);
         obj1.display();
         obj2.display();
         obj3.display();

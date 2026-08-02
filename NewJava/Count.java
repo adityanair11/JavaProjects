@@ -18,6 +18,6 @@ public class Count
        c++;
        System.out.println("No. of words: "+c);
 
-
+       sc.close();
     }
 }

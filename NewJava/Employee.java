@@ -24,6 +24,7 @@ public class Employee
         
         System.out.println("Employee ID: " + id);
         System.out.println("Total salary: " + totalSalary);
+        sc.close();
     }
     
 }

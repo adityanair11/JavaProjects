@@ -57,6 +57,6 @@ public class CourseSys
       
     }
     
-
+   sc.close();
   }
 }

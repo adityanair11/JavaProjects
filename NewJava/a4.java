@@ -1,4 +1,4 @@
-import mypackage.MyClass;
+
 
 public class a4 
 {
