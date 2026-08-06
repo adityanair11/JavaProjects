@@ -49,7 +49,3 @@ class VehicleIcAcMain
     action.stop();
    }
 }
-
-
-
-
