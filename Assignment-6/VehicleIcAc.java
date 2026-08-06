@@ -4,7 +4,7 @@ public class VehicleIcAc
     {
         void display()
         {
-            System.out.println("\nModel: Toyota Camry\nColor: Silver\nYear: 2022\nEngine: 2.5L 4-cylinder\nTransmission\n");
+            System.out.println("\nModel: Toyota Camry\nColor: Silver\nYear: 2022\nEngine: 2.5L 4-cylinder\nTransmission: Automatic\n");
         }
     }
 }   
