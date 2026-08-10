@@ -1,0 +1,4 @@
+Patient ID: 250284
+Name: Aditya Nair
+Age: 18
+Diagnosis: Common Flu
