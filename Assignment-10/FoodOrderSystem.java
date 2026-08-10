@@ -1,3 +1,4 @@
+
 abstract class FoodOrder
 {
     double amount;
