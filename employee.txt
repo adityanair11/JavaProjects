@@ -1,0 +1,4 @@
+Employee ID: 284
+Name: Aditya Nair
+Department: Finance
+Salary: 150000.0
