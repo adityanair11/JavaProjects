@@ -7,7 +7,7 @@ public class CourseSys
     boolean l=true;
     int index=0;
     int choice;
-    
+    //comment
     Scanner sc=new Scanner(System.in);
     ArrayList<String> list=new ArrayList<>();
     while(l==true)
