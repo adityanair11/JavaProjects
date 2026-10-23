@@ -15,6 +15,11 @@ class Calculator {
         count++;
         return a+b+c;
     }
+
+    public String subtract(int i, int j) {
+        // TODO Auto-generated method stub
+        throw new UnsupportedOperationException("Unimplemented method 'subtract'");
+    }
 }
 
 class Restaurant {
