@@ -1,0 +1,12 @@
+0:0:0:0:0:0:0:1 - - [24/Oct/2026:00:14:10 +0530] "GET /Assignment29/student.jsp?utm_source=chatgpt.com HTTP/1.1" 404 759
+0:0:0:0:0:0:0:1 - - [24/Oct/2026:00:14:10 +0530] "GET /favicon.ico HTTP/1.1" 200 21630
+0:0:0:0:0:0:0:1 - - [24/Oct/2026:00:14:19 +0530] "GET /Assignment29/register.jsp?utm_source=chatgpt.com HTTP/1.1" 404 760
+0:0:0:0:0:0:0:1 - - [24/Oct/2026:00:14:40 +0530] "GET /Assignment29/student.jsp?utm_source=chatgpt.com HTTP/1.1" 404 759
+0:0:0:0:0:0:0:1 - - [24/Oct/2026:00:15:15 +0530] "GET /Assignment29/student.jsp?utm_source=chatgpt.com HTTP/1.1" 404 759
+0:0:0:0:0:0:0:1 - - [24/Oct/2026:00:16:14 +0530] "GET /Assignment-29/student.jsp?utm_source=chatgpt.com HTTP/1.1" 200 398
+0:0:0:0:0:0:0:1 - - [24/Oct/2026:00:17:08 +0530] "POST /Assignment-29/result.jsp HTTP/1.1" 200 200
+0:0:0:0:0:0:0:1 - - [24/Oct/2026:00:17:41 +0530] "POST /Assignment-29/result.jsp HTTP/1.1" 200 200
+0:0:0:0:0:0:0:1 - - [24/Oct/2026:00:18:28 +0530] "GET /Assignment-29/register.jsp?utm_source=chatgpt.com HTTP/1.1" 200 457
+0:0:0:0:0:0:0:1 - - [24/Oct/2026:00:19:24 +0530] "POST /Assignment-29/registrationResult.jsp HTTP/1.1" 200 253
+0:0:0:0:0:0:0:1 - - [24/Oct/2026:00:19:35 +0530] "POST /Assignment-29/registrationResult.jsp HTTP/1.1" 200 252
+0:0:0:0:0:0:0:1 - - [24/Oct/2026:00:19:39 +0530] "POST /Assignment-29/registrationResult.jsp HTTP/1.1" 200 252

@@ -1,0 +1,44 @@
+24-Oct-2026 00:13:54.382 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version name:   Apache Tomcat/11.0.27
+24-Oct-2026 00:13:54.384 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Oct 6 2026 18:12:07 UTC
+24-Oct-2026 00:13:54.384 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version number: 11.0.27.0
+24-Oct-2026 00:13:54.384 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Mac OS X
+24-Oct-2026 00:13:54.384 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            27.0.1
+24-Oct-2026 00:13:54.384 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          aarch64
+24-Oct-2026 00:13:54.384 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             /Library/Java/JavaVirtualMachines/temurin-21.jdk/Contents/Home
+24-Oct-2026 00:13:54.384 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           21.0.8+9-LTS
+24-Oct-2026 00:13:54.384 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Eclipse Adoptium
+24-Oct-2026 00:13:54.384 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         /Users/adityanair/JavaProjects/apache-tomcat-11.0.27
+24-Oct-2026 00:13:54.384 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         /Users/adityanair/JavaProjects/apache-tomcat-11.0.27
+24-Oct-2026 00:13:54.391 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=/Users/adityanair/JavaProjects/apache-tomcat-11.0.27/conf/logging.properties
+24-Oct-2026 00:13:54.391 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+24-Oct-2026 00:13:54.391 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djdk.tls.ephemeralDHKeySize=2048
+24-Oct-2026 00:13:54.391 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dorg.apache.catalina.security.SecurityListener.UMASK=0027
+24-Oct-2026 00:13:54.391 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.lang=ALL-UNNAMED
+24-Oct-2026 00:13:54.391 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.lang.reflect=ALL-UNNAMED
+24-Oct-2026 00:13:54.391 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.io=ALL-UNNAMED
+24-Oct-2026 00:13:54.392 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util=ALL-UNNAMED
+24-Oct-2026 00:13:54.392 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util.concurrent=ALL-UNNAMED
+24-Oct-2026 00:13:54.392 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED
+24-Oct-2026 00:13:54.392 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --enable-native-access=ALL-UNNAMED
+24-Oct-2026 00:13:54.392 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=/Users/adityanair/JavaProjects/apache-tomcat-11.0.27
+24-Oct-2026 00:13:54.392 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=/Users/adityanair/JavaProjects/apache-tomcat-11.0.27
+24-Oct-2026 00:13:54.392 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=/Users/adityanair/JavaProjects/apache-tomcat-11.0.27/temp
+24-Oct-2026 00:13:54.396 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent The Apache Tomcat Native library which allows using OpenSSL was not found on the java.library.path: [/Users/adityanair/Library/Java/Extensions:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java:.]
+24-Oct-2026 00:13:54.500 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8080"]
+24-Oct-2026 00:13:54.511 INFO [main] org.apache.catalina.startup.Catalina.load Server initialization in [202] milliseconds
+24-Oct-2026 00:13:54.525 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+24-Oct-2026 00:13:54.525 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet engine: [Apache Tomcat/11.0.27]
+24-Oct-2026 00:13:54.528 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/Users/adityanair/JavaProjects/apache-tomcat-11.0.27/webapps/docs]
+24-Oct-2026 00:13:54.628 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/adityanair/JavaProjects/apache-tomcat-11.0.27/webapps/docs] has finished in [100] ms
+24-Oct-2026 00:13:54.628 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/Users/adityanair/JavaProjects/apache-tomcat-11.0.27/webapps/Assignment-29]
+24-Oct-2026 00:13:54.637 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/adityanair/JavaProjects/apache-tomcat-11.0.27/webapps/Assignment-29] has finished in [9] ms
+24-Oct-2026 00:13:54.637 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/Users/adityanair/JavaProjects/apache-tomcat-11.0.27/webapps/manager]
+24-Oct-2026 00:13:54.649 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/adityanair/JavaProjects/apache-tomcat-11.0.27/webapps/manager] has finished in [12] ms
+24-Oct-2026 00:13:54.649 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/Users/adityanair/JavaProjects/apache-tomcat-11.0.27/webapps/examples]
+24-Oct-2026 00:13:54.738 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/adityanair/JavaProjects/apache-tomcat-11.0.27/webapps/examples] has finished in [89] ms
+24-Oct-2026 00:13:54.738 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/Users/adityanair/JavaProjects/apache-tomcat-11.0.27/webapps/ROOT]
+24-Oct-2026 00:13:54.744 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/adityanair/JavaProjects/apache-tomcat-11.0.27/webapps/ROOT] has finished in [6] ms
+24-Oct-2026 00:13:54.744 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/Users/adityanair/JavaProjects/apache-tomcat-11.0.27/webapps/host-manager]
+24-Oct-2026 00:13:54.750 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/adityanair/JavaProjects/apache-tomcat-11.0.27/webapps/host-manager] has finished in [6] ms
+24-Oct-2026 00:13:54.751 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8080"]
+24-Oct-2026 00:13:54.755 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in [242] milliseconds

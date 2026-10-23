@@ -1,0 +1,14 @@
+<html>
+<body>
+    <h2>Student Registration</h2>
+
+    <form action="registrationResult.jsp" method="post">
+        Name: <input type="text" name="name" required><br><br>
+        Email: <input type="email" name="email" required><br><br>
+        Phone Number: <input type="text" name="phone" required><br><br>
+        Password: <input type="password" name="password" required><br><br>
+
+        <input type="submit" value="Register">
+    </form>
+</body>
+</html>
